@@ -57,7 +57,7 @@ var arrLang = {
     "address1": "Lakcím:",
     "address2": "1033, Budapest, Szőlő u 86.",
     "mak0": "Magyar Államkincstár – Rendszerszervező – Igénykezelési- és Fejlesztéstervezési Osztály",
-    "mak1": "Költségvetési alkalmazás",
+    "mak1": "Központi Költségvetési Rendszer (SAP PSM & FI)",
     "mak2": "Integrált könyvviteli Alkalmazás",
     "mak3": "ESB - Enterprise Service Bus",
 
@@ -120,7 +120,7 @@ var arrLang = {
     "address1": "Address:",
     "address2": "Szőlő street 86. ,Budapest",
     "mak0": "Hungarian State Treasury - System analyst - Claims Management and Development Planning Department",
-    "mak1": "Budget application",
+    "mak1": "Central Budget System (SAP PSM & FI)",
     "mak2": "Integrated accounting Application",
     "mak3": "ESB - Enterprise Service Bus",
 
